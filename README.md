@@ -11,5 +11,11 @@ what is this project all about?
 3. set a bet amount. This will be multipilied with number of lines the user bets.
 4. a function get_slot_machine_spin() will spin the slot machine , using python random module, random character will be generated
 5. displays the characters of the slot machine , in a matrix manner
-6. checks if the character in entire row gets matched. if matched the character value will be multiplied with the bet amount of each line
+6. checks if the character in entire row gets matched. if matched the character value will be multiplied with the bet amount of each line, and gives you the winning amount.
 7. repeatedly ask the user if he want to play or not. if want to quit will return with left amount.
+
+REFERENCE:
+- tech with tim yt
+- python docs
+- w3schools
+- programiz
