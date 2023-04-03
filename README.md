@@ -15,7 +15,6 @@ what is this project all about?
 7. repeatedly ask the user if he want to play or not. if want to quit will return with left amount.
 
 REFERENCE:
-- tech with tim yt
 - python docs
 - w3schools
 - programiz
